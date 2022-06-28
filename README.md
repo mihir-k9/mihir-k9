@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mihir-k9
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Aerospace Eng. as an undergrad
+- 🌱 I’m currently working as a research assistant and looking for Full Time Data Scientist jobs
 - 📫 How to reach me https://www.linkedin.com/in/mihir-k/
 
 <!---
