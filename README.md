@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mihir-k9
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m looking for Full Time Data Scientist jobs
 - 📫 How to reach me https://www.linkedin.com/in/mihir-k/
 
 <!---
