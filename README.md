@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @mihir-k9
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m working as Data Engineer
+-  I like to experiment with anything python-related!
 - 📫 How to reach me https://www.linkedin.com/in/mihir-k/
 
 <!---
