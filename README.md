@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mihir-k9
-- 👀 I’m working as Data Engineer
--  I like to experiment with anything python-related!
+- 👀 I’m working as an AI Engineer
 - 📫 How to reach me https://www.linkedin.com/in/mihir-k/
 
 <!---
